@@ -1,4 +1,8 @@
 <script>
+  import AppTitle from "./components/AppTitle.vue"
+
+  import AppBanner from "./components/AppBanner.vue"
+
   export default {
     data() {
       return {
